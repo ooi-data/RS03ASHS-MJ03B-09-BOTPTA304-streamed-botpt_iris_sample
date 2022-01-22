@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03ASHS-MJ03B-09-BOTPTA304-streamed-botpt_iris_sample
 data_stream: RS03ASHS-MJ03B-09-BOTPTA304-streamed-botpt_iris_sample
 end_date: '2022-01-01T00:40:59.000Z'
-last_updated: '2022-01-22T01:50:36.835057Z'
+last_updated: '2022-01-22T02:15:19.221230'
 start_date: '2017-08-15T00:10:37.000Z'
-status: pending
+status: success
